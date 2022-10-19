@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Maxim\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(272,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Maxim\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(692,76): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Maxim\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(692,76): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  ConsoleApplication1.vcxproj -> C:\Users\Maxim\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
